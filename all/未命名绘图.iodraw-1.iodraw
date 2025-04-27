@@ -10,7 +10,7 @@
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-2" value="TCGA数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PTM3TGUdfTsUIEEmg_1k-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PTM3TGUdfTsUIEEmg_1k-3" value="THCA中RNA-Seq数据、临床数据及可变剪切数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="220" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
