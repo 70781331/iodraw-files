@@ -96,7 +96,7 @@
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-42" value="ROC曲线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="630" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PTM3TGUdfTsUIEEmg_1k-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PTM3TGUdfTsUIEEmg_1k-43" value="列线图预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="730" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
