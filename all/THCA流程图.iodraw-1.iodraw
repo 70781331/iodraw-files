@@ -75,17 +75,13 @@
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-18" value="剪切因子相关性分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="220" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PTM3TGUdfTsUIEEmg_1k-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PTM3TGUdfTsUIEEmg_1k-19" target="PTM3TGUdfTsUIEEmg_1k-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-19" value="剪切因子调控网络构建" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="330" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PTM3TGUdfTsUIEEmg_1k-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PTM3TGUdfTsUIEEmg_1k-20" target="PTM3TGUdfTsUIEEmg_1k-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PTM3TGUdfTsUIEEmg_1k-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="430" width="140" height="70" as="geometry" />
+        <mxCell id="PTM3TGUdfTsUIEEmg_1k-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="PTM3TGUdfTsUIEEmg_1k-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="500" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="530" width="140" height="70" as="geometry" />
