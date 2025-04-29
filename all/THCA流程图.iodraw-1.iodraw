@@ -67,7 +67,7 @@
           <mxGeometry x="100" y="430" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-12" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, sans-serif; font-size: 16px; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;用于分析肿瘤样本中的免疫细胞浸润情况，通过 ssGSEA 算法进一步分析免疫相关通路的富集情况，并在 R 4.1.1 环境下分析免疫检查点相关基因与风险评分的相关性，以及低危和高危组免疫检查点相关基因的差异。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="530" width="150" height="270" as="geometry" />
+          <mxGeometry x="95" y="530" width="150" height="270" as="geometry" />
         </mxCell>
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PTM3TGUdfTsUIEEmg_1k-18" target="PTM3TGUdfTsUIEEmg_1k-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
