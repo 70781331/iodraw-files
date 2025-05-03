@@ -90,6 +90,9 @@
         <mxCell id="TTyvvMr0n2eA_WdNBWZ3-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;剪切因子调控网络构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="530" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="TTyvvMr0n2eA_WdNBWZ3-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;剪切因子调控网络构建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="630" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
