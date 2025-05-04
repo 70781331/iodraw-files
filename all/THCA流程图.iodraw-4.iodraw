@@ -96,6 +96,14 @@
         <mxCell id="TTyvvMr0n2eA_WdNBWZ3-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;剪切因子相关性分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="530" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="BCfikdRGpyoyGLll6x0z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TTyvvMr0n2eA_WdNBWZ3-2" target="PTM3TGUdfTsUIEEmg_1k-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="980" />
+              <mxPoint x="173" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TTyvvMr0n2eA_WdNBWZ3-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;剪切因子表达量&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;K-M生存分析&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="630" width="140" height="70" as="geometry" />
         </mxCell>
