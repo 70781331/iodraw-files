@@ -21,9 +21,6 @@
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PTM3TGUdfTsUIEEmg_1k-3" target="PTM3TGUdfTsUIEEmg_1k-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PTM3TGUdfTsUIEEmg_1k-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PTM3TGUdfTsUIEEmg_1k-3" target="PTM3TGUdfTsUIEEmg_1k-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;THCA中RNA-Seq数据、临床数据及可变剪切数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="220" width="140" height="70" as="geometry" />
         </mxCell>
