@@ -5,7 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="PTM3TGUdfTsUIEEmg_1k-1" target="PTM3TGUdfTsUIEEmg_1k-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="120" />
+              <mxPoint x="1380" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;TCGA Splice-Seq&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1090" y="70" width="140" height="80" as="geometry" />
@@ -13,6 +18,10 @@
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="PTM3TGUdfTsUIEEmg_1k-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1380" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1640" y="120" />
+              <mxPoint x="1380" y="120" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PTM3TGUdfTsUIEEmg_1k-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;TCGA数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
