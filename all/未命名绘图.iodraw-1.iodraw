@@ -14,13 +14,10 @@
           <mxGeometry x="15" y="250" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7XdSYbjTeLLSEu57UYeS-3" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;分子设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="200" width="130" height="50" as="geometry" />
+          <mxGeometry x="190" y="210" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7XdSYbjTeLLSEu57UYeS-4" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;分子设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="345" y="230" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="7XdSYbjTeLLSEu57UYeS-5" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;分子设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="280" width="130" height="50" as="geometry" />
+        <mxCell id="7XdSYbjTeLLSEu57UYeS-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;分子设计&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="290" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
