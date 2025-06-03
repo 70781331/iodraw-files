@@ -73,8 +73,8 @@
         <mxCell id="97Kti-twUr6ZjlY83p3C-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="97Kti-twUr6ZjlY83p3C-77" target="97Kti-twUr6ZjlY83p3C-74" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="97Kti-twUr6ZjlY83p3C-74" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;初筛药物活性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="465" width="130" height="50" as="geometry" />
+        <mxCell id="97Kti-twUr6ZjlY83p3C-74" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;终止反应并使蛋白变性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="510" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="97Kti-twUr6ZjlY83p3C-77" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;适当条件下孵育&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="510" width="130" height="50" as="geometry" />
