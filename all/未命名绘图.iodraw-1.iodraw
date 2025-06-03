@@ -95,20 +95,20 @@
         </mxCell>
         <mxCell id="7XdSYbjTeLLSEu57UYeS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="7XdSYbjTeLLSEu57UYeS-36" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="745" as="targetPoint" />
+            <mxPoint x="360" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7XdSYbjTeLLSEu57UYeS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="7XdSYbjTeLLSEu57UYeS-37" target="7XdSYbjTeLLSEu57UYeS-35" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7XdSYbjTeLLSEu57UYeS-34" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;靶头内Linker改造&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="720" width="130" height="50" as="geometry" />
+          <mxGeometry x="360" y="680" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7XdSYbjTeLLSEu57UYeS-35" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;初筛药物活性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="585" width="130" height="50" as="geometry" />
+          <mxGeometry x="360" y="585" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7XdSYbjTeLLSEu57UYeS-36" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;体外泛素化实验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="720" width="130" height="50" as="geometry" />
+          <mxGeometry x="190" y="680" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7XdSYbjTeLLSEu57UYeS-37" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CCK8&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="585" width="130" height="50" as="geometry" />
